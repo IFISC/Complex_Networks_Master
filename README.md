@@ -86,4 +86,7 @@ Now you are all set for starting the course!
 
 ## General references and further reading for this course
 
-1. 
+1. Caldarelli, Guido_ Chessa, Alessandro - Data science and complex networks _ real cases studies with Python-Oxford University Press (2016)
+2. Dmitry Zinoviev - Complex Network Analysis in Python_ Recognize - Construct - Visualize - Analyze - Interpret-Pragmatic Bookshelf (2018)
+3. Edward L. Platt - Network Science with Python and NetworkX Quick Start Guide_ Explore and visualize network data effectively-Packt Publishing (2019)
+4. Filippo Menczer, Santo Fortunato, Clayton A. Davis - A First Course in Network Science-Cambridge University Press (2020)
