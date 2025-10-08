@@ -1,0 +1,17 @@
+name: complex_networks_good
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - matplotlib
+  - networkx
+  - pandas
+  - python
+  - numpy
+  - jupyter
+  - seaborn
+  - openpyxl
+  - adjusttext
+  - folium
+  - scikit-learn
+prefix: /home/juanf/anaconda3/envs/complex_networks_good
